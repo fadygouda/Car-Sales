@@ -17,7 +17,7 @@ const AddedFeatures = props => {
         <p>You can purchase items from the store.</p>
       )}
     </div>
-  );
+  ); 
 };
 
 const mapStatetoProps = state => {
